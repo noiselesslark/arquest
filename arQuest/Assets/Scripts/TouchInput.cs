@@ -22,26 +22,26 @@ public class TouchInput : MonoBehaviour {
             {
                 Ray ray = Camera.main.ScreenPointToRay(touch.position);
 
-                if (Physics.Raycast(ray, out hit, touchInputMask))
+                if (Physics.Raycast(ray, out hit, Mathf.Infinity, touchInputMask))
                 {
                     GameObject recipient = hit.transform.gameObject;
                     touchList.Add(recipient);
 
                     if (touch.phase == TouchPhase.Began)
                     {
-                        recipient.SendMessage("OnTouchDown", hit.point, SendMessageOptions.DontRequireReceiver);
+                        recipient.SendMessage("OnTouchDown", recipient.name, SendMessageOptions.DontRequireReceiver);
                     };
                     if (touch.phase == TouchPhase.Ended)
                     {
-                        recipient.SendMessage("OnTouchUp", hit.point, SendMessageOptions.DontRequireReceiver);
+                        recipient.SendMessage("OnTouchUp", recipient.name, SendMessageOptions.DontRequireReceiver);
                     };
                     if (touch.phase == TouchPhase.Stationary || touch.phase == TouchPhase.Moved)
                     {
-                        recipient.SendMessage("OnTouchStay", hit.point, SendMessageOptions.DontRequireReceiver);
+                        recipient.SendMessage("OnTouchStay", recipient.name, SendMessageOptions.DontRequireReceiver);
                     };
                     if (touch.phase == TouchPhase.Canceled)
                     {
-                        recipient.SendMessage("OnTouchExit", hit.point, SendMessageOptions.DontRequireReceiver);
+                        recipient.SendMessage("OnTouchExit", recipient.name, SendMessageOptions.DontRequireReceiver);
                     };
                 }
             }
