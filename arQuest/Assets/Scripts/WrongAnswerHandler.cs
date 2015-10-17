@@ -1,10 +1,10 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class IncorrectAnswerHandler : MonoBehaviour {
+public class WrongAnswerHandler : MonoBehaviour {
 
     private Color defaultColor;
-    public Color incorrectColour;
+    private Color incorrectColour;
     private Material mat;
 
     void Start()

@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class TouchEventHandler : MonoBehaviour {
+public class ARObjectTouchHandler : MonoBehaviour {
     public Color defaultColor;
     public Color selectedColor;
 
