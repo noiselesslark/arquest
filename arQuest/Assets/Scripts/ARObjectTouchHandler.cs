@@ -18,7 +18,7 @@ public class ARObjectTouchHandler : MonoBehaviour {
         switch (name)
         {
             case "OcuClassModel":
-                Application.LoadLevel("ocuClassScene");
+                Application.LoadLevel("defaultQuestionScene");
                 break;
             default:
                 break;

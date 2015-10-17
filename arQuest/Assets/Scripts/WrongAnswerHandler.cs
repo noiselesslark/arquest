@@ -3,6 +3,7 @@ using System.Collections;
 
 public class WrongAnswerHandler : MonoBehaviour {
 
+	public WrongAnswerPopUpHandler popUp;
     private Color defaultColor;
     private Color incorrectColour;
     private Material mat;
@@ -22,6 +23,7 @@ public class WrongAnswerHandler : MonoBehaviour {
     void OnTouchUp()
     {
         mat.color = defaultColor;
+		popUp.transform.gameObject.SetActive(true);
     }
 
     void OnTouchStay()

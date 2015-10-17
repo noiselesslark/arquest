@@ -2,6 +2,7 @@
 
 public class CorrectAnswerHandler : MonoBehaviour {
 
+	public CorrectAnswerPopUpHandler popUp;
     private Color defaultColor;
     private Color correctColour;
     private Material mat;
@@ -21,8 +22,7 @@ public class CorrectAnswerHandler : MonoBehaviour {
     void OnTouchUp()
     {
         mat.color = defaultColor;
-        GlobalVariables.completedQs[GlobalVariables.ocuClass] = true;
-        Application.LoadLevel("workingScene");
+		popUp.transform.gameObject.SetActive(true);
     }
 
     void OnTouchStay()
