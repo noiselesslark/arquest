@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections.Generic;
+using System.Linq;
 
 public class GemController : MonoBehaviour {
 
@@ -22,8 +23,7 @@ public class GemController : MonoBehaviour {
             }
         }
 
-        gems.Sort();
-        Debug.Log("MESSAGE!!!! ALL THE GEMS ARE " + gems.Count);
+        gems = gems.OrderBy(gameObject => gameObject.name).ToList();
 
         for (int i = 0; i < completedCount; i++)
         {
