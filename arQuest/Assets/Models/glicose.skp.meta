@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 9c31ec3fff3a5a546a47921e630ad45d
+timeCreated: 1444901409
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f0000004000000041000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ec606c4919d6ffe675ae5885e4599c3e
+  longitude: -47.917000000000002
+  latitude: -15.782999999999999
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -.0305758882, y: .122672707, z: .488298446}
+      lookAt: {x: .032566715, y: .0728443414, z: .276051491}
+      up: {x: .0625980273, y: .975605667, z: -.210416406}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Componente#1
+    100002: Componente#1 1
+    100004: Componente#1 10
+    100006: Componente#1 11
+    100008: Componente#1 12
+    100010: Componente#1 2
+    100012: Componente#1 3
+    100014: Componente#1 4
+    100016: Componente#1 5
+    100018: Componente#1 6
+    100020: Componente#1 7
+    100022: Componente#1 8
+    100024: Componente#1 9
+    100026: Componente#2
+    100028: Componente#2 1
+    100030: Componente#2 2
+    100032: Componente#2 3
+    100034: Componente#2 4
+    100036: Componente#2 5
+    100038: Componente#4
+    100040: Componente#4 1
+    100042: Componente#4 2
+    100044: Componente#4 3
+    100046: Componente#4 4
+    100048: Componente#4 5
+    100050: //RootNode
+    100052: Tetraedro
+    100054: Tetraedro 1
+    100056: Tetraedro 2
+    100058: Tetraedro 3
+    100060: Tetraedro 4
+    100062: Tetraedro 5
+    100064: Tetraedro#1
+    400000: Componente#1
+    400002: Componente#1 1
+    400004: Componente#1 10
+    400006: Componente#1 11
+    400008: Componente#1 12
+    400010: Componente#1 2
+    400012: Componente#1 3
+    400014: Componente#1 4
+    400016: Componente#1 5
+    400018: Componente#1 6
+    400020: Componente#1 7
+    400022: Componente#1 8
+    400024: Componente#1 9
+    400026: Componente#2
+    400028: Componente#2 1
+    400030: Componente#2 2
+    400032: Componente#2 3
+    400034: Componente#2 4
+    400036: Componente#2 5
+    400038: Componente#4
+    400040: Componente#4 1
+    400042: Componente#4 2
+    400044: Componente#4 3
+    400046: Componente#4 4
+    400048: Componente#4 5
+    400050: //RootNode
+    400052: Tetraedro
+    400054: Tetraedro 1
+    400056: Tetraedro 2
+    400058: Tetraedro 3
+    400060: Tetraedro 4
+    400062: Tetraedro 5
+    400064: Tetraedro#1
+    2300000: Componente#1
+    2300002: Componente#1 1
+    2300004: Componente#1 10
+    2300006: Componente#1 11
+    2300008: Componente#1 12
+    2300010: Componente#1 2
+    2300012: Componente#1 3
+    2300014: Componente#1 4
+    2300016: Componente#1 5
+    2300018: Componente#1 6
+    2300020: Componente#1 7
+    2300022: Componente#1 8
+    2300024: Componente#1 9
+    2300026: Componente#2
+    2300028: Componente#2 1
+    2300030: Componente#2 2
+    2300032: Componente#2 3
+    2300034: Componente#2 4
+    2300036: Componente#2 5
+    2300038: Componente#4
+    2300040: Componente#4 1
+    2300042: Componente#4 2
+    2300044: Componente#4 3
+    2300046: Componente#4 4
+    2300048: Componente#4 5
+    2300050: //RootNode
+    2300052: Tetraedro
+    2300054: Tetraedro 1
+    2300056: Tetraedro 2
+    2300058: Tetraedro 3
+    2300060: Tetraedro 4
+    2300062: Tetraedro 5
+    2300064: Tetraedro#1
+    3300000: Componente#1
+    3300002: Componente#1 1
+    3300004: Componente#1 10
+    3300006: Componente#1 11
+    3300008: Componente#1 12
+    3300010: Componente#1 2
+    3300012: Componente#1 3
+    3300014: Componente#1 4
+    3300016: Componente#1 5
+    3300018: Componente#1 6
+    3300020: Componente#1 7
+    3300022: Componente#1 8
+    3300024: Componente#1 9
+    3300026: Componente#2
+    3300028: Componente#2 1
+    3300030: Componente#2 2
+    3300032: Componente#2 3
+    3300034: Componente#2 4
+    3300036: Componente#2 5
+    3300038: Componente#4
+    3300040: Componente#4 1
+    3300042: Componente#4 2
+    3300044: Componente#4 3
+    3300046: Componente#4 4
+    3300048: Componente#4 5
+    3300050: //RootNode
+    3300052: Tetraedro
+    3300054: Tetraedro 1
+    3300056: Tetraedro 2
+    3300058: Tetraedro 3
+    3300060: Tetraedro 4
+    3300062: Tetraedro 5
+    3300064: Tetraedro#1
+    4300000: Mesh glicose
+    4300002: Mesh Tetraedro
+    4300004: Mesh Componente#2
+    4300006: Mesh Tetraedro
+    4300008: Mesh Componente#2
+    4300010: Mesh Tetraedro#1
+    4300012: Mesh Componente#4
+    4300014: Mesh Componente#4
+    4300016: Mesh Componente#1
+    4300018: Mesh Componente#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="arcircuits" size="1.000000 0.990000" />
+    <ImageTarget name="dp_logo" size="1.000000 1.000000" />
+    <ImageTarget name="IconArquest-01" size="1.000000 0.321795" />
+    <ImageTarget name="sketch" size="1.000000 1.825048" />
+  </Tracking>
+</QCARConfig>

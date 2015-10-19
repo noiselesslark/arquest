@@ -21,7 +21,9 @@ public class CorrectAnswerHandler : MonoBehaviour {
     void OnTouchUp()
     {
         mat.color = defaultColor;
-        GlobalVariables.completedQs[GlobalVariables.ocuClass] = true;
+
+        GlobalVariables.completedQs[Application.loadedLevelName] = true;
+
         Application.LoadLevel("workingScene");
     }
 
