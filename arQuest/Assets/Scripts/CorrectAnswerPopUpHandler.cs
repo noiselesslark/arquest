@@ -9,7 +9,7 @@ public class CorrectAnswerPopUpHandler : MonoBehaviour {
 
 	void OnTouchUp()
     {
-        GlobalVariables.completedQs[GlobalVariables.ocuClass] = true;
+        GlobalVariables.completedQs[Application.loadedLevelName] = true;
         Application.LoadLevel("workingScene");
     }
 }

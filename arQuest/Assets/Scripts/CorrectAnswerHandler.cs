@@ -22,7 +22,9 @@ public class CorrectAnswerHandler : MonoBehaviour {
     void OnTouchUp()
     {
         mat.color = defaultColor;
+
 		popUp.transform.gameObject.SetActive(true);
+
     }
 
     void OnTouchStay()

@@ -27,7 +27,6 @@ public class GemController : MonoBehaviour {
 
         for (int i = 0; i < completedCount; i++)
         {
-            Debug.Log("MESSAGE!!!! Set visible gem " + i);
             gems[i].SetActive(true);
         }
 	}
