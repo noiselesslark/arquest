@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using System.Collections;
 
 public class CorrectAnswerPopUpHandler : MonoBehaviour {
 
@@ -10,6 +9,9 @@ public class CorrectAnswerPopUpHandler : MonoBehaviour {
 	void OnTouchUp()
     {
         GlobalVariables.completedQs[Application.loadedLevelName] = true;
+
+        gameObject.transform.GetChild(1).gameObject.SetActive(false); // Hide gem
+
         Application.LoadLevel("workingScene");
     }
 }

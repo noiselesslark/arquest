@@ -2,8 +2,6 @@
 using System.Collections;
 
 public class ARObjectTouchHandler : MonoBehaviour {
-    public Color defaultColor;
-    public Color selectedColor;
 
     void Start()
     {

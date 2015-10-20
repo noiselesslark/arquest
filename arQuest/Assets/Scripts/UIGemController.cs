@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using System.Linq;
 
-public class GemFiller : MonoBehaviour {
+public class UIGemController : MonoBehaviour {
 
     List<RawImage> gemImgs;
     public Texture IntelligemTexture;
