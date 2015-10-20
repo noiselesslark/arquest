@@ -31,7 +31,7 @@ public class GlobalVariables : MonoBehaviour {
             }
         }
 
-        Debug.Log("MESSAGE!!!! COUNT: " + count);
+
         return count;
     }
 
