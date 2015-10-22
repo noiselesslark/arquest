@@ -505,10 +505,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 823155206}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc6209bd3d95df74db5ee1fa8187426e, type: 3}
+  m_Script: {fileID: 11500000, guid: 3e48893bba781a247ab442686a5af693, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  popUp: {fileID: 762701031}
+  popUp: {fileID: 1216638786}
 --- !u!23 &823155209
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -576,7 +576,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 886567409}
-  m_Text: What do you need to operate OcuClass?
+  m_Text: Which is the fourth planet from the sun?
   m_OffsetZ: 0
   m_CharacterSize: .0149999997
   m_LineSpacing: 1
@@ -686,88 +686,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 9
---- !u!1001 &970211402
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 6.94000006
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 5.15999985
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -1.62920685e-07
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 2300000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300012, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[1]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300004, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300016, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300006, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[1]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300010, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[1]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300008, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-  m_IsPrefabParent: 0
 --- !u!1 &970546901
 GameObject:
   m_ObjectHideFlags: 0
@@ -792,7 +710,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 970546901}
-  m_Text: OcuClass App and a computer
+  m_Text: Earth
   m_OffsetZ: 0
   m_CharacterSize: .0149999997
   m_LineSpacing: 1
@@ -868,7 +786,7 @@ MeshRenderer:
   m_GameObject: {fileID: 977501382}
   m_Enabled: 1
   m_CastShadows: 1
-  m_ReceiveShadows: 1
+  m_ReceiveShadows: 0
   m_Materials:
   - {fileID: 2100000, guid: 5e98d7a61dd95804bba093e7d07fcc16, type: 2}
   m_SubsetIndices: 
@@ -1276,7 +1194,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1432868312}
-  m_Text: OcuClass App and a Google Cardboard
+  m_Text: Venus
   m_OffsetZ: 0
   m_CharacterSize: .0149999997
   m_LineSpacing: 1
@@ -1462,6 +1380,60 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
+--- !u!1001 &1831065085
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.41000009
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -.270000011
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 2.72000003
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: .899999976
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: .899999976
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+      propertyPath: m_LocalScale.z
+      value: .899999976
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 8d10c527a5420dc43b04942333958e4d, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &1961046734
 GameObject:
   m_ObjectHideFlags: 0
@@ -1489,10 +1461,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1961046734}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3e48893bba781a247ab442686a5af693, type: 3}
+  m_Script: {fileID: 11500000, guid: dc6209bd3d95df74db5ee1fa8187426e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  popUp: {fileID: 1216638786}
+  popUp: {fileID: 762701031}
 --- !u!23 &1961046736
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1647,7 +1619,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2056715324}
-  m_Text: Just a Google Cardboard
+  m_Text: Mars
   m_OffsetZ: 0
   m_CharacterSize: .0149999997
   m_LineSpacing: 1
