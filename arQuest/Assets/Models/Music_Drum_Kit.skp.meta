@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: 8d5d09197ab7513469a3e6ee825c027b
+timeCreated: 1445520238
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d010000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9635f975fef3a40735e47dcc241c8b8b
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.58912814, y: 1.15582716, z: -1.36438417}
+      lookAt: {x: -.0588931516, y: .402140796, z: .455146253}
+      up: {x: .194503874, y: .95324707, z: .231275409}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#1 1
+    100004: Component#1 10
+    100006: Component#1 11
+    100008: Component#1 12
+    100010: Component#1 13
+    100012: Component#1 14
+    100014: Component#1 15
+    100016: Component#1 16
+    100018: Component#1 17
+    100020: Component#1 18
+    100022: Component#1 19
+    100024: Component#1 2
+    100026: Component#1 20
+    100028: Component#1 21
+    100030: Component#1 22
+    100032: Component#1 23
+    100034: Component#1 24
+    100036: Component#1 25
+    100038: Component#1 26
+    100040: Component#1 27
+    100042: Component#1 28
+    100044: Component#1 29
+    100046: Component#1 3
+    100048: Component#1 30
+    100050: Component#1 31
+    100052: Component#1 32
+    100054: Component#1 33
+    100056: Component#1 34
+    100058: Component#1 35
+    100060: Component#1 36
+    100062: Component#1 37
+    100064: Component#1 38
+    100066: Component#1 39
+    100068: Component#1 4
+    100070: Component#1 40
+    100072: Component#1 41
+    100074: Component#1 42
+    100076: Component#1 43
+    100078: Component#1 44
+    100080: Component#1 45
+    100082: Component#1 46
+    100084: Component#1 47
+    100086: Component#1 48
+    100088: Component#1 49
+    100090: Component#1 5
+    100092: Component#1 50
+    100094: Component#1 51
+    100096: Component#1 52
+    100098: Component#1 53
+    100100: Component#1 54
+    100102: Component#1 55
+    100104: Component#1 56
+    100106: Component#1 57
+    100108: Component#1 58
+    100110: Component#1 59
+    100112: Component#1 6
+    100114: Component#1 60
+    100116: Component#1 61
+    100118: Component#1 62
+    100120: Component#1 63
+    100122: Component#1 64
+    100124: Component#1 65
+    100126: Component#1 66
+    100128: Component#1 67
+    100130: Component#1 68
+    100132: Component#1 69
+    100134: Component#1 7
+    100136: Component#1 70
+    100138: Component#1 71
+    100140: Component#1 72
+    100142: Component#1 73
+    100144: Component#1 74
+    100146: Component#1 75
+    100148: Component#1 76
+    100150: Component#1 77
+    100152: Component#1 78
+    100154: Component#1 79
+    100156: Component#1 8
+    100158: Component#1 80
+    100160: Component#1 81
+    100162: Component#1 82
+    100164: Component#1 83
+    100166: Component#1 84
+    100168: Component#1 85
+    100170: Component#1 86
+    100172: Component#1 87
+    100174: Component#1 88
+    100176: Component#1 89
+    100178: Component#1 9
+    100180: Component#1 90
+    100182: Component#1 91
+    100184: Component#1 92
+    100186: Component#1 93
+    100188: Component#1 94
+    100190: Component#1 95
+    100192: Cymbal
+    100194: Cymbal 1
+    100196: Cymbal 2
+    100198: Cymbal 3
+    100200: Drum
+    100202: Drum 1
+    100204: Drum 2
+    100206: Drum 3
+    100208: Drum_Half
+    100210: Drum_Half 1
+    100212: Drum_Half 10
+    100214: Drum_Half 11
+    100216: Drum_Half 12
+    100218: Drum_Half 13
+    100220: Drum_Half 14
+    100222: Drum_Half 15
+    100224: Drum_Half 2
+    100226: Drum_Half 3
+    100228: Drum_Half 4
+    100230: Drum_Half 5
+    100232: Drum_Half 6
+    100234: Drum_Half 7
+    100236: Drum_Half 8
+    100238: Drum_Half 9
+    100240: //RootNode
+    100242: Stand
+    100244: Stand 1
+    100246: Stand 2
+    100248: Stand 3
+    100250: Stand 4
+    100252: Stand 5
+    100254: Stand 6
+    100256: Stand 7
+    100258: Stand Leg
+    100260: Stand Leg 1
+    100262: Stand Leg 10
+    100264: Stand Leg 11
+    100266: Stand Leg 12
+    100268: Stand Leg 13
+    100270: Stand Leg 14
+    100272: Stand Leg 15
+    100274: Stand Leg 16
+    100276: Stand Leg 17
+    100278: Stand Leg 18
+    100280: Stand Leg 19
+    100282: Stand Leg 2
+    100284: Stand Leg 20
+    100286: Stand Leg 21
+    100288: Stand Leg 22
+    100290: Stand Leg 23
+    100292: Stand Leg 3
+    100294: Stand Leg 4
+    100296: Stand Leg 5
+    100298: Stand Leg 6
+    100300: Stand Leg 7
+    100302: Stand Leg 8
+    100304: Stand Leg 9
+    400000: Component#1
+    400002: Component#1 1
+    400004: Component#1 10
+    400006: Component#1 11
+    400008: Component#1 12
+    400010: Component#1 13
+    400012: Component#1 14
+    400014: Component#1 15
+    400016: Component#1 16
+    400018: Component#1 17
+    400020: Component#1 18
+    400022: Component#1 19
+    400024: Component#1 2
+    400026: Component#1 20
+    400028: Component#1 21
+    400030: Component#1 22
+    400032: Component#1 23
+    400034: Component#1 24
+    400036: Component#1 25
+    400038: Component#1 26
+    400040: Component#1 27
+    400042: Component#1 28
+    400044: Component#1 29
+    400046: Component#1 3
+    400048: Component#1 30
+    400050: Component#1 31
+    400052: Component#1 32
+    400054: Component#1 33
+    400056: Component#1 34
+    400058: Component#1 35
+    400060: Component#1 36
+    400062: Component#1 37
+    400064: Component#1 38
+    400066: Component#1 39
+    400068: Component#1 4
+    400070: Component#1 40
+    400072: Component#1 41
+    400074: Component#1 42
+    400076: Component#1 43
+    400078: Component#1 44
+    400080: Component#1 45
+    400082: Component#1 46
+    400084: Component#1 47
+    400086: Component#1 48
+    400088: Component#1 49
+    400090: Component#1 5
+    400092: Component#1 50
+    400094: Component#1 51
+    400096: Component#1 52
+    400098: Component#1 53
+    400100: Component#1 54
+    400102: Component#1 55
+    400104: Component#1 56
+    400106: Component#1 57
+    400108: Component#1 58
+    400110: Component#1 59
+    400112: Component#1 6
+    400114: Component#1 60
+    400116: Component#1 61
+    400118: Component#1 62
+    400120: Component#1 63
+    400122: Component#1 64
+    400124: Component#1 65
+    400126: Component#1 66
+    400128: Component#1 67
+    400130: Component#1 68
+    400132: Component#1 69
+    400134: Component#1 7
+    400136: Component#1 70
+    400138: Component#1 71
+    400140: Component#1 72
+    400142: Component#1 73
+    400144: Component#1 74
+    400146: Component#1 75
+    400148: Component#1 76
+    400150: Component#1 77
+    400152: Component#1 78
+    400154: Component#1 79
+    400156: Component#1 8
+    400158: Component#1 80
+    400160: Component#1 81
+    400162: Component#1 82
+    400164: Component#1 83
+    400166: Component#1 84
+    400168: Component#1 85
+    400170: Component#1 86
+    400172: Component#1 87
+    400174: Component#1 88
+    400176: Component#1 89
+    400178: Component#1 9
+    400180: Component#1 90
+    400182: Component#1 91
+    400184: Component#1 92
+    400186: Component#1 93
+    400188: Component#1 94
+    400190: Component#1 95
+    400192: Cymbal
+    400194: Cymbal 1
+    400196: Cymbal 2
+    400198: Cymbal 3
+    400200: Drum
+    400202: Drum 1
+    400204: Drum 2
+    400206: Drum 3
+    400208: Drum_Half
+    400210: Drum_Half 1
+    400212: Drum_Half 10
+    400214: Drum_Half 11
+    400216: Drum_Half 12
+    400218: Drum_Half 13
+    400220: Drum_Half 14
+    400222: Drum_Half 15
+    400224: Drum_Half 2
+    400226: Drum_Half 3
+    400228: Drum_Half 4
+    400230: Drum_Half 5
+    400232: Drum_Half 6
+    400234: Drum_Half 7
+    400236: Drum_Half 8
+    400238: Drum_Half 9
+    400240: //RootNode
+    400242: Stand
+    400244: Stand 1
+    400246: Stand 2
+    400248: Stand 3
+    400250: Stand 4
+    400252: Stand 5
+    400254: Stand 6
+    400256: Stand 7
+    400258: Stand Leg
+    400260: Stand Leg 1
+    400262: Stand Leg 10
+    400264: Stand Leg 11
+    400266: Stand Leg 12
+    400268: Stand Leg 13
+    400270: Stand Leg 14
+    400272: Stand Leg 15
+    400274: Stand Leg 16
+    400276: Stand Leg 17
+    400278: Stand Leg 18
+    400280: Stand Leg 19
+    400282: Stand Leg 2
+    400284: Stand Leg 20
+    400286: Stand Leg 21
+    400288: Stand Leg 22
+    400290: Stand Leg 23
+    400292: Stand Leg 3
+    400294: Stand Leg 4
+    400296: Stand Leg 5
+    400298: Stand Leg 6
+    400300: Stand Leg 7
+    400302: Stand Leg 8
+    400304: Stand Leg 9
+    2300000: Component#1
+    2300002: Component#1 1
+    2300004: Component#1 10
+    2300006: Component#1 11
+    2300008: Component#1 12
+    2300010: Component#1 13
+    2300012: Component#1 14
+    2300014: Component#1 15
+    2300016: Component#1 16
+    2300018: Component#1 17
+    2300020: Component#1 18
+    2300022: Component#1 19
+    2300024: Component#1 2
+    2300026: Component#1 20
+    2300028: Component#1 21
+    2300030: Component#1 22
+    2300032: Component#1 23
+    2300034: Component#1 24
+    2300036: Component#1 25
+    2300038: Component#1 26
+    2300040: Component#1 27
+    2300042: Component#1 28
+    2300044: Component#1 29
+    2300046: Component#1 3
+    2300048: Component#1 30
+    2300050: Component#1 31
+    2300052: Component#1 32
+    2300054: Component#1 33
+    2300056: Component#1 34
+    2300058: Component#1 35
+    2300060: Component#1 36
+    2300062: Component#1 37
+    2300064: Component#1 38
+    2300066: Component#1 39
+    2300068: Component#1 4
+    2300070: Component#1 40
+    2300072: Component#1 41
+    2300074: Component#1 42
+    2300076: Component#1 43
+    2300078: Component#1 44
+    2300080: Component#1 45
+    2300082: Component#1 46
+    2300084: Component#1 47
+    2300086: Component#1 48
+    2300088: Component#1 49
+    2300090: Component#1 5
+    2300092: Component#1 50
+    2300094: Component#1 51
+    2300096: Component#1 52
+    2300098: Component#1 53
+    2300100: Component#1 54
+    2300102: Component#1 55
+    2300104: Component#1 56
+    2300106: Component#1 57
+    2300108: Component#1 58
+    2300110: Component#1 59
+    2300112: Component#1 6
+    2300114: Component#1 60
+    2300116: Component#1 61
+    2300118: Component#1 62
+    2300120: Component#1 63
+    2300122: Component#1 64
+    2300124: Component#1 65
+    2300126: Component#1 66
+    2300128: Component#1 67
+    2300130: Component#1 68
+    2300132: Component#1 69
+    2300134: Component#1 7
+    2300136: Component#1 70
+    2300138: Component#1 71
+    2300140: Component#1 72
+    2300142: Component#1 73
+    2300144: Component#1 74
+    2300146: Component#1 75
+    2300148: Component#1 76
+    2300150: Component#1 77
+    2300152: Component#1 78
+    2300154: Component#1 79
+    2300156: Component#1 8
+    2300158: Component#1 80
+    2300160: Component#1 81
+    2300162: Component#1 82
+    2300164: Component#1 83
+    2300166: Component#1 84
+    2300168: Component#1 85
+    2300170: Component#1 86
+    2300172: Component#1 87
+    2300174: Component#1 88
+    2300176: Component#1 89
+    2300178: Component#1 9
+    2300180: Component#1 90
+    2300182: Component#1 91
+    2300184: Component#1 92
+    2300186: Component#1 93
+    2300188: Component#1 94
+    2300190: Component#1 95
+    2300192: Cymbal
+    2300194: Cymbal 1
+    2300196: Cymbal 2
+    2300198: Cymbal 3
+    2300200: Drum_Half
+    2300202: Drum_Half 1
+    2300204: Drum_Half 10
+    2300206: Drum_Half 11
+    2300208: Drum_Half 12
+    2300210: Drum_Half 13
+    2300212: Drum_Half 14
+    2300214: Drum_Half 15
+    2300216: Drum_Half 2
+    2300218: Drum_Half 3
+    2300220: Drum_Half 4
+    2300222: Drum_Half 5
+    2300224: Drum_Half 6
+    2300226: Drum_Half 7
+    2300228: Drum_Half 8
+    2300230: Drum_Half 9
+    2300232: //RootNode
+    2300234: Stand
+    2300236: Stand 1
+    2300238: Stand 2
+    2300240: Stand 3
+    2300242: Stand 4
+    2300244: Stand 5
+    2300246: Stand 6
+    2300248: Stand 7
+    2300250: Stand Leg
+    2300252: Stand Leg 1
+    2300254: Stand Leg 10
+    2300256: Stand Leg 11
+    2300258: Stand Leg 12
+    2300260: Stand Leg 13
+    2300262: Stand Leg 14
+    2300264: Stand Leg 15
+    2300266: Stand Leg 16
+    2300268: Stand Leg 17
+    2300270: Stand Leg 18
+    2300272: Stand Leg 19
+    2300274: Stand Leg 2
+    2300276: Stand Leg 20
+    2300278: Stand Leg 21
+    2300280: Stand Leg 22
+    2300282: Stand Leg 23
+    2300284: Stand Leg 3
+    2300286: Stand Leg 4
+    2300288: Stand Leg 5
+    2300290: Stand Leg 6
+    2300292: Stand Leg 7
+    2300294: Stand Leg 8
+    2300296: Stand Leg 9
+    3300000: Component#1
+    3300002: Component#1 1
+    3300004: Component#1 10
+    3300006: Component#1 11
+    3300008: Component#1 12
+    3300010: Component#1 13
+    3300012: Component#1 14
+    3300014: Component#1 15
+    3300016: Component#1 16
+    3300018: Component#1 17
+    3300020: Component#1 18
+    3300022: Component#1 19
+    3300024: Component#1 2
+    3300026: Component#1 20
+    3300028: Component#1 21
+    3300030: Component#1 22
+    3300032: Component#1 23
+    3300034: Component#1 24
+    3300036: Component#1 25
+    3300038: Component#1 26
+    3300040: Component#1 27
+    3300042: Component#1 28
+    3300044: Component#1 29
+    3300046: Component#1 3
+    3300048: Component#1 30
+    3300050: Component#1 31
+    3300052: Component#1 32
+    3300054: Component#1 33
+    3300056: Component#1 34
+    3300058: Component#1 35
+    3300060: Component#1 36
+    3300062: Component#1 37
+    3300064: Component#1 38
+    3300066: Component#1 39
+    3300068: Component#1 4
+    3300070: Component#1 40
+    3300072: Component#1 41
+    3300074: Component#1 42
+    3300076: Component#1 43
+    3300078: Component#1 44
+    3300080: Component#1 45
+    3300082: Component#1 46
+    3300084: Component#1 47
+    3300086: Component#1 48
+    3300088: Component#1 49
+    3300090: Component#1 5
+    3300092: Component#1 50
+    3300094: Component#1 51
+    3300096: Component#1 52
+    3300098: Component#1 53
+    3300100: Component#1 54
+    3300102: Component#1 55
+    3300104: Component#1 56
+    3300106: Component#1 57
+    3300108: Component#1 58
+    3300110: Component#1 59
+    3300112: Component#1 6
+    3300114: Component#1 60
+    3300116: Component#1 61
+    3300118: Component#1 62
+    3300120: Component#1 63
+    3300122: Component#1 64
+    3300124: Component#1 65
+    3300126: Component#1 66
+    3300128: Component#1 67
+    3300130: Component#1 68
+    3300132: Component#1 69
+    3300134: Component#1 7
+    3300136: Component#1 70
+    3300138: Component#1 71
+    3300140: Component#1 72
+    3300142: Component#1 73
+    3300144: Component#1 74
+    3300146: Component#1 75
+    3300148: Component#1 76
+    3300150: Component#1 77
+    3300152: Component#1 78
+    3300154: Component#1 79
+    3300156: Component#1 8
+    3300158: Component#1 80
+    3300160: Component#1 81
+    3300162: Component#1 82
+    3300164: Component#1 83
+    3300166: Component#1 84
+    3300168: Component#1 85
+    3300170: Component#1 86
+    3300172: Component#1 87
+    3300174: Component#1 88
+    3300176: Component#1 89
+    3300178: Component#1 9
+    3300180: Component#1 90
+    3300182: Component#1 91
+    3300184: Component#1 92
+    3300186: Component#1 93
+    3300188: Component#1 94
+    3300190: Component#1 95
+    3300192: Cymbal
+    3300194: Cymbal 1
+    3300196: Cymbal 2
+    3300198: Cymbal 3
+    3300200: Drum_Half
+    3300202: Drum_Half 1
+    3300204: Drum_Half 10
+    3300206: Drum_Half 11
+    3300208: Drum_Half 12
+    3300210: Drum_Half 13
+    3300212: Drum_Half 14
+    3300214: Drum_Half 15
+    3300216: Drum_Half 2
+    3300218: Drum_Half 3
+    3300220: Drum_Half 4
+    3300222: Drum_Half 5
+    3300224: Drum_Half 6
+    3300226: Drum_Half 7
+    3300228: Drum_Half 8
+    3300230: Drum_Half 9
+    3300232: //RootNode
+    3300234: Stand
+    3300236: Stand 1
+    3300238: Stand 2
+    3300240: Stand 3
+    3300242: Stand 4
+    3300244: Stand 5
+    3300246: Stand 6
+    3300248: Stand 7
+    3300250: Stand Leg
+    3300252: Stand Leg 1
+    3300254: Stand Leg 10
+    3300256: Stand Leg 11
+    3300258: Stand Leg 12
+    3300260: Stand Leg 13
+    3300262: Stand Leg 14
+    3300264: Stand Leg 15
+    3300266: Stand Leg 16
+    3300268: Stand Leg 17
+    3300270: Stand Leg 18
+    3300272: Stand Leg 19
+    3300274: Stand Leg 2
+    3300276: Stand Leg 20
+    3300278: Stand Leg 21
+    3300280: Stand Leg 22
+    3300282: Stand Leg 23
+    3300284: Stand Leg 3
+    3300286: Stand Leg 4
+    3300288: Stand Leg 5
+    3300290: Stand Leg 6
+    3300292: Stand Leg 7
+    3300294: Stand Leg 8
+    3300296: Stand Leg 9
+    4300000: Mesh Music_Drum_Kit
+    4300002: Mesh Drum_Half
+    4300004: Mesh Component#1
+    4300006: Mesh Stand
+    4300008: Mesh Stand Leg
+    4300010: Mesh Cymbal
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

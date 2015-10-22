@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="lmn" size="1.000000 1.000000" />
+    <ImageTarget name="butterflyplaceholder" size="1.000000 0.562653" />
+    <ImageTarget name="pedestal" size="1.000000 0.822895" />
+    <ImageTarget name="lostinspain" size="1.000000 0.473145" />
     <ImageTarget name="hamlin" size="1.000000 0.539081" />
     <ImageTarget name="ocuclass" size="1.000000 0.644043" />
     <ImageTarget name="holobeats" size="1.000000 1.000000" />
@@ -9,6 +13,5 @@
     <ImageTarget name="placeholder" size="1.000000 0.650728" />
     <ImageTarget name="arcircuits" size="1.000000 0.990000" />
     <ImageTarget name="IconArquest-01" size="1.000000 0.321795" />
-    <ImageTarget name="sketch" size="1.000000 1.825048" />
   </Tracking>
 </QCARConfig>

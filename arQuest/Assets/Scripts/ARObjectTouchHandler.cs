@@ -2,6 +2,7 @@
 using System.Collections;
 
 public class ARObjectTouchHandler : MonoBehaviour {
+    public string sceneName;
 
     void Start()
     {
@@ -13,14 +14,7 @@ public class ARObjectTouchHandler : MonoBehaviour {
 
     void OnTouchUp(string name)
     {
-        switch (name)
-        {
-            case "OcuClassModel":
-                Application.LoadLevel("defaultQuestionScene");
-                break;
-            default:
-                break;
-        }
+        Application.LoadLevel(sceneName);
     }
 
     void OnTouchStay()

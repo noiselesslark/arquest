@@ -10,7 +10,9 @@ public class CorrectAnswerPopUpHandler : MonoBehaviour {
     {
         GlobalVariables.completedQs[Application.loadedLevelName] = true;
 
+        gameObject.transform.GetChild(0).gameObject.SetActive(false);
         gameObject.transform.GetChild(1).gameObject.SetActive(false); // Hide gem
+        gameObject.transform.GetChild(2).gameObject.SetActive(true);
 
         Application.LoadLevel("workingScene");
     }

@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 8dfabe07eb8e273428dd8566a4397e89
+timeCreated: 1445520223
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f0000004000000041000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 8357af7d453cad46aa39f5fc33a73918
+  longitude: -105.283
+  latitude: 40.017000000000003
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.73987365, y: 8.32043648, z: -4.21745396}
+      lookAt: {x: .594700575, y: .751734018, z: -1.44814527}
+      up: {x: -.656603992, y: .484385788, z: .578136444}
+      fov: 16.015728
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: 3D Sang
+    100002: bryce
+    100004: bryce 1
+    100006: //RootNode
+    100008: Nancy
+    100010: Nancy#1
+    100012: Nancy#2
+    100014: Nancy#3
+    100016: NancyGlasses
+    100018: NancyGlasses 1
+    100020: NancyGlasses 2
+    100022: NancyGlasses 3
+    100024: NancyJacket
+    100026: NancyJacket 1
+    100028: NancyJacket 2
+    100030: NancyJacket 3
+    100032: NancyPants
+    100034: NancyPants 1
+    100036: NancyPants 2
+    100038: NancyPants 3
+    100040: Photo Bryce
+    100042: Photo Bryce 1
+    100044: Sang
+    100046: Sang#1
+    100048: Sang#2
+    100050: SangHair
+    100052: SangHair 1
+    100054: SangHair 2
+    100056: SangPants
+    100058: SangPants 1
+    100060: SangPants 2
+    100062: SangShirt
+    100064: SangShirt 1
+    100066: SangShirt 2
+    400000: 3D Sang
+    400002: bryce
+    400004: bryce 1
+    400006: //RootNode
+    400008: Nancy
+    400010: Nancy#1
+    400012: Nancy#2
+    400014: Nancy#3
+    400016: NancyGlasses
+    400018: NancyGlasses 1
+    400020: NancyGlasses 2
+    400022: NancyGlasses 3
+    400024: NancyJacket
+    400026: NancyJacket 1
+    400028: NancyJacket 2
+    400030: NancyJacket 3
+    400032: NancyPants
+    400034: NancyPants 1
+    400036: NancyPants 2
+    400038: NancyPants 3
+    400040: Photo Bryce
+    400042: Photo Bryce 1
+    400044: Sang
+    400046: Sang#1
+    400048: Sang#2
+    400050: SangHair
+    400052: SangHair 1
+    400054: SangHair 2
+    400056: SangPants
+    400058: SangPants 1
+    400060: SangPants 2
+    400062: SangShirt
+    400064: SangShirt 1
+    400066: SangShirt 2
+    2300000: bryce
+    2300002: bryce 1
+    2300004: Nancy
+    2300006: Nancy#1
+    2300008: Nancy#2
+    2300010: Nancy#3
+    2300012: NancyGlasses
+    2300014: NancyGlasses 1
+    2300016: NancyGlasses 2
+    2300018: NancyGlasses 3
+    2300020: NancyJacket
+    2300022: NancyJacket 1
+    2300024: NancyJacket 2
+    2300026: NancyJacket 3
+    2300028: NancyPants
+    2300030: NancyPants 1
+    2300032: NancyPants 2
+    2300034: NancyPants 3
+    2300036: Photo Bryce
+    2300038: Photo Bryce 1
+    2300040: Sang
+    2300042: Sang#1
+    2300044: Sang#2
+    2300046: SangHair
+    2300048: SangHair 1
+    2300050: SangHair 2
+    2300052: SangPants
+    2300054: SangPants 1
+    2300056: SangPants 2
+    2300058: SangShirt
+    2300060: SangShirt 1
+    2300062: SangShirt 2
+    3300000: bryce
+    3300002: bryce 1
+    3300004: Nancy
+    3300006: Nancy#1
+    3300008: Nancy#2
+    3300010: Nancy#3
+    3300012: NancyGlasses
+    3300014: NancyGlasses 1
+    3300016: NancyGlasses 2
+    3300018: NancyGlasses 3
+    3300020: NancyJacket
+    3300022: NancyJacket 1
+    3300024: NancyJacket 2
+    3300026: NancyJacket 3
+    3300028: NancyPants
+    3300030: NancyPants 1
+    3300032: NancyPants 2
+    3300034: NancyPants 3
+    3300036: Photo Bryce
+    3300038: Photo Bryce 1
+    3300040: Sang
+    3300042: Sang#1
+    3300044: Sang#2
+    3300046: SangHair
+    3300048: SangHair 1
+    3300050: SangHair 2
+    3300052: SangPants
+    3300054: SangPants 1
+    3300056: SangPants 2
+    3300058: SangShirt
+    3300060: SangShirt 1
+    3300062: SangShirt 2
+    4300000: Mesh Photo Bryce
+    4300002: Mesh bryce
+    4300004: Mesh Sang#1
+    4300006: Mesh SangHair
+    4300008: Mesh SangShirt
+    4300010: Mesh SangPants
+    4300012: Mesh Sang#2
+    4300014: Mesh SangHair
+    4300016: Mesh Sang
+    4300018: Mesh Nancy#1
+    4300020: Mesh NancyJacket
+    4300022: Mesh NancyGlasses
+    4300024: Mesh NancyPants
+    4300026: Mesh Nancy#2
+    4300028: Mesh Nancy#3
+    4300030: Mesh NancyJacket
+    4300032: Mesh NancyPants
+    4300034: Mesh Nancy
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0253999997
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
