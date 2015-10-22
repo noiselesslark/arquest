@@ -15,3 +15,9 @@ EditorBuildSettings:
     path: Assets/companionScene.unity
   - enabled: 1
     path: Assets/LMNScene.unity
+  - enabled: 1
+    path: Assets/hamlinScene.unity
+  - enabled: 1
+    path: Assets/arCircuitsScene.unity
+  - enabled: 1
+    path: Assets/DPScene.unity
