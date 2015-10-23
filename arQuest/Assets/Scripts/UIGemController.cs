@@ -13,6 +13,11 @@ public class UIGemController : MonoBehaviour {
 
     // Use this for initialization
     void Start () {
+        UpdateGems();
+    }
+
+    public void UpdateGems()
+    {
         gemImgs = new List<RawImage>();
         int completedCount = GlobalVariables.getNumberCompleted();
 
@@ -27,7 +32,8 @@ public class UIGemController : MonoBehaviour {
 
                 childgo.GetComponent<RawImage>();
 
-                if (childgo.name.Contains("9")) {
+                if (childgo.name.Contains("9"))
+                {
                     childgo.texture = IntelligemOutline;
                 }
                 else

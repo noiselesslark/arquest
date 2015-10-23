@@ -8,11 +8,16 @@ public class GemController : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
+        UpdateGems();
+	}
+
+    public void UpdateGems()
+    {
         gems = new List<GameObject>();
         int completedCount = GlobalVariables.getNumberCompleted();
         foreach (Transform child in transform)
         {
-            
+
             GameObject childgo = child.transform.gameObject;
             if (childgo.name.Contains("gem"))
             {
@@ -29,7 +34,7 @@ public class GemController : MonoBehaviour {
         {
             gems[i].SetActive(true);
         }
-	}
+    }
 	
 	// Update is called once per frame
 	void Update () {

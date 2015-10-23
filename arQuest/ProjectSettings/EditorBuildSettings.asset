@@ -21,3 +21,5 @@ EditorBuildSettings:
     path: Assets/arCircuitsScene.unity
   - enabled: 1
     path: Assets/DPScene.unity
+  - enabled: 1
+    path: Assets/lostinScene.unity

@@ -218,6 +218,64 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 10
+--- !u!1001 &251810616
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.11999989
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: .200000003
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -3.08999991
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 2.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2300000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+      propertyPath: m_ReceiveShadows
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: eeeef775adfae0649a42738bc1cad524, type: 3}
+  m_IsPrefabParent: 0
 --- !u!1 &326260251
 GameObject:
   m_ObjectHideFlags: 0
@@ -258,10 +316,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 326260251}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc6209bd3d95df74db5ee1fa8187426e, type: 3}
+  m_Script: {fileID: 11500000, guid: 3e48893bba781a247ab442686a5af693, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  popUp: {fileID: 762701031}
+  popUp: {fileID: 1216638786}
 --- !u!23 &326260254
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -576,9 +634,9 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 886567409}
-  m_Text: What do you need to operate OcuClass?
+  m_Text: How do you say "I would like a notebook" in Spanish?
   m_OffsetZ: 0
-  m_CharacterSize: .0149999997
+  m_CharacterSize: .0120000001
   m_LineSpacing: 1
   m_Anchor: 0
   m_Alignment: 0
@@ -686,88 +744,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 9
---- !u!1001 &970211402
-Prefab:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 6.94000006
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 5.15999985
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -1.62920685e-07
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_RootOrder
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalScale.x
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalScale.y
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 400000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_LocalScale.z
-      value: 20
-      objectReference: {fileID: 0}
-    - target: {fileID: 2300000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300012, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[1]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300004, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300016, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300006, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[1]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300010, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[1]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    - target: {fileID: 2300008, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: 5df2c5742ea93744fa0db4275684ab18, type: 2}
-    m_RemovedComponents: []
-  m_ParentPrefab: {fileID: 100100000, guid: af1d118b9c280164c9490b1786cd63f7, type: 3}
-  m_IsPrefabParent: 0
 --- !u!1 &970546901
 GameObject:
   m_ObjectHideFlags: 0
@@ -792,7 +768,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 970546901}
-  m_Text: OcuClass App and a computer
+  m_Text: Quiero un bloc de notas
   m_OffsetZ: 0
   m_CharacterSize: .0149999997
   m_LineSpacing: 1
@@ -1276,7 +1252,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1432868312}
-  m_Text: OcuClass App and a Google Cardboard
+  m_Text: Quiero cola
   m_OffsetZ: 0
   m_CharacterSize: .0149999997
   m_LineSpacing: 1
@@ -1489,10 +1465,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1961046734}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3e48893bba781a247ab442686a5af693, type: 3}
+  m_Script: {fileID: 11500000, guid: dc6209bd3d95df74db5ee1fa8187426e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  popUp: {fileID: 1216638786}
+  popUp: {fileID: 762701031}
 --- !u!23 &1961046736
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -1647,7 +1623,7 @@ TextMesh:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2056715324}
-  m_Text: Just a Google Cardboard
+  m_Text: Quiero tener una pluma y un libro
   m_OffsetZ: 0
   m_CharacterSize: .0149999997
   m_LineSpacing: 1
