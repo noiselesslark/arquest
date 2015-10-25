@@ -23,3 +23,7 @@ EditorBuildSettings:
     path: Assets/DPScene.unity
   - enabled: 1
     path: Assets/lostinScene.unity
+  - enabled: 1
+    path: Assets/feedbackScene.unity
+  - enabled: 1
+    path: Assets/xcursionScene.unity

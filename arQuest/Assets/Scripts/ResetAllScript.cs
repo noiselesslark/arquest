@@ -8,6 +8,7 @@ public class ResetAllScript : MonoBehaviour {
     void OnTouchUp(string name)
     {
         GlobalVariables.completedQs = new System.Collections.Generic.Dictionary<string, bool>();
+        GlobalVariables.feedbackComplete = false;
         pedestal.UpdateGems();
         UICounter.UpdateGems();
 

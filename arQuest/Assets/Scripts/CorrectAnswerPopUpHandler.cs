@@ -14,6 +14,6 @@ public class CorrectAnswerPopUpHandler : MonoBehaviour {
         gameObject.transform.GetChild(1).gameObject.SetActive(false); // Hide gem
         gameObject.transform.GetChild(2).gameObject.SetActive(true);
 
-        Application.LoadLevel("workingScene");
+        Application.LoadLevel(GlobalVariables.HOME_SCN);
     }
 }

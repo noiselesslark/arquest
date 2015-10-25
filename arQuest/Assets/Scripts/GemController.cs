@@ -21,7 +21,6 @@ public class GemController : MonoBehaviour {
             GameObject childgo = child.transform.gameObject;
             if (childgo.name.Contains("gem"))
             {
-
                 childgo.SetActive(false);
 
                 gems.Add(childgo);
@@ -33,6 +32,11 @@ public class GemController : MonoBehaviour {
         for (int i = 0; i < completedCount; i++)
         {
             gems[i].SetActive(true);
+        }
+
+        if (GlobalVariables.feedbackComplete)
+        {
+            gems[9].SetActive(true);
         }
     }
 	

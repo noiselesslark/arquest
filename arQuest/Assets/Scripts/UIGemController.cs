@@ -49,15 +49,12 @@ public class UIGemController : MonoBehaviour {
 
         for (int i = 0; i < completedCount; i++)
         {
+            gemImgs[i].texture = ClevergemTexture;
+        }
 
-            if (gemImgs[i].name.Contains("9"))
-            {
-                gemImgs[i].texture = IntelligemTexture;
-            }
-            else
-            {
-                gemImgs[i].texture = ClevergemTexture;
-            }
+        if (GlobalVariables.feedbackComplete)
+        {
+            gemImgs[9].texture = IntelligemTexture;
         }
     }
 	
